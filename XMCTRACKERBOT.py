@@ -69,3 +69,7 @@ while True:
             enviados.add(tweet_id)
 
     time.sleep(240)  # Espera 2 minutos antes de volver a revisar
+
+if __name__ == "__main__":
+    main()
+
